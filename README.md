@@ -1,7 +1,7 @@
 ## Adriano Andrade !!
 
 - 🔭 Estagiário em desenvolvimento na Framework.
-- 🌱 Estudando C# .Net .
+- 🌱 Estudando C# .Net e Angular.
 - 📫 Contate-me no email: adrianoandraden14@hotmail.com
 
 
