@@ -1,6 +1,6 @@
 ## Adriano Andrade !!
 
-- 🌱 Estudando C# .Net e Angular.
+- 🌱 Estudando C# .Net
 - 📫 Contate-me no email: adrianoandraden14@hotmail.com
 
 
