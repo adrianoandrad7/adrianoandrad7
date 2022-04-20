@@ -1,6 +1,6 @@
 ## Adriano Andrade !!
 
-- 🌱 Estudando C# .Net
+-  Analista de Sistemas .Net
 - 📫 Contate-me no email: adrianoandraden14@hotmail.com
 
 
