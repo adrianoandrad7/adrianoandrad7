@@ -19,6 +19,8 @@
   <img align="center" alt="Adriano-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
 </div>
 
+<hr>
+
 ![Visitas ao Perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadrianoandrad7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
   
   
