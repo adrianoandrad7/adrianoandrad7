@@ -6,8 +6,6 @@
 
 <a href = "mailto:adrianoandraden17@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/adriano-andrade-baa247144/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Amostra de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoandrad7&layout=compact&langs_count=7&theme=dark)
-
 ### 🛠️ Ferramentas e Linguagens
 
 <div style="display: flex"><br>
