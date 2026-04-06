@@ -1,4 +1,4 @@
-# Adriano Andrade 👋
+# Adriano Andrade 
 
 ### Desenvolvimento .Net | C# | JavaScript 
 
